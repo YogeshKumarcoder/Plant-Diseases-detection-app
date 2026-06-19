@@ -88,5 +88,5 @@ cropguard-ai/
 
 ## 👨‍💻 Author
 **Yogesh Kumar** — Mechanical Engineering Student @ AMU
-- Self-taught ML Engineer targeting FAANG
+
 - GitHub: [@YogeshKumarcoder](https://github.com/YogeshKumarcoder)
