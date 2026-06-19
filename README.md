@@ -1,6 +1,8 @@
+<img width="1892" height="913" alt="Screenshot 2026-06-19 114251" src="https://github.com/user-attachments/assets/546f9345-0700-48f5-bc07-c6aa721f2da3" />
 # 🌿 CropGuard AI — Plant Disease Detection System
 
-![CropGuard AI](frontend/public/screenshot.png)
+![CropGuard AI]([Uploading Screenshot 2026-06-19 114251.png…]()
+shot.png)
 
 ## 🎯 Overview
 An AI-powered plant disease detection system that analyzes leaf images and provides instant disease diagnosis with treatment recommendations.
